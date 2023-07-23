@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pickled vagables (Under construction)</title>
+</head>
+<body>
+    <h1>Pickled vagables</h1>
+    <img width= "150" alt="Cartoon of a bean" src="../img/bean.png">
+    <p>Serves:4</p>
+    <h2>Ingredients:</h2>
+    <ul>
+        <li>Lots of vegables</li>
+    </ul>
+
+    <h2>Method:</h2>
+    
+    <p>Pickle the vegables.</p>
+
+    <a href="../index.html">Back</a>
+</body>
+</html>
